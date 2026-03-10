@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: <Carter McClintock-Comeaux> - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -15,7 +15,7 @@ permalink: /cv/
 #### Objective
 Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
 
----
+
 
 #### Education
 - **Cornell University**  
